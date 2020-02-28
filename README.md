@@ -1,3 +1,5 @@
+https://blog.biezhi.me/2018/11/build-a-beautiful-mac-terminal-environment.html
+
 # dotfile
 
 My terminal looks like a garden. 🌹 🏘 🌱
